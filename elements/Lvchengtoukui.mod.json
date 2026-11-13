@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "minecraft:empty_armor_slot_helmet",
+    "textureHelmet": "lu_cheng__head",
     "enableBody": true,
-    "textureBody": "minecraft:empty_armor_slot_chestplate",
+    "textureBody": "lu_cheng__body",
     "enableLeggings": true,
-    "textureLeggings": "minecraft:empty_armor_slot_leggings",
+    "textureLeggings": "lu_cheng__leggings",
     "enableBoots": true,
-    "textureBoots": "minecraft:empty_armor_slot_boots",
+    "textureBoots": "lu_cheng__boots",
     "creativeTabs": [
       "COMBAT"
     ],
