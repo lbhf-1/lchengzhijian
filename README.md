@@ -7,6 +7,7 @@
 - **适用版本**：Minecraft 1.20.1 / Forge 47+
 - **作者**：六不合法
 - **协议**：[MIT](LICENSE)
+- **仓库**：[GitHub](https://github.com/lbhf-1/lchengzhijian) · [Gitee](https://gitee.com/lbh_cangku/lchengzhijian)
 
 ## 内容
 
