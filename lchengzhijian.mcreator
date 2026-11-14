@@ -9,7 +9,7 @@
       "metadata": {
         "dependencies": [
           {
-            "name": "entity",
+            "name": "sourceentity",
             "type": "entity"
           },
           {
@@ -138,10 +138,10 @@
   "workspaceSettings": {
     "modid": "lchengzhijian",
     "modName": "旅程之剑",
-    "version": "1.1.2",
+    "version": "1.1.2.2",
     "description": "为旅行提供辅助",
     "author": "六不合法",
-    "websiteURL": "https://github.com/lbhf-1/lchengzhijian",
+    "websiteURL": "https://modrinth.com/mod/lvchengzhijian",
     "license": "MIT License",
     "serverSideOnly": false,
     "requiredMods": [],

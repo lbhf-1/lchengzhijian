@@ -42,7 +42,7 @@ public class LvchengzhijianItem extends SwordItem {
 	@Override
 	public boolean hurtEnemy(ItemStack itemstack, LivingEntity entity, LivingEntity sourceentity) {
 		boolean retval = super.hurtEnemy(itemstack, entity, sourceentity);
-		LvchengzhijianShengWuBeiGongJuJiZhongShiProcedure.execute(entity, itemstack);
+		LvchengzhijianShengWuBeiGongJuJiZhongShiProcedure.execute(sourceentity, itemstack);
 		return retval;
 	}
 
